@@ -1,3 +1,7 @@
 # Card_puzzle  
-Little card puzzle  
+
+## Technologies Used:
+HTML,SCSS,CSS,JS
+
+## GitHub Pages:
 https://denyskuchma.github.io/Card_puzzle/
